@@ -81,9 +81,11 @@ Seja criativo!
 
 Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 
-1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
-2. Gráfico selecionado: <IMAGEM_DO_GRAFICO_SELECIONADO_AQUI>
-3. Explicação: <EXPLICACAO_AQUI>
+1. Repositório selecionado: <https://github.com/Textualize/rich>
+2. Gráfico selecionado:
 
+   
+    <img width="676" height="363" alt="Screenshot from 2026-03-24 18-03-13" src="https://github.com/user-attachments/assets/17cac325-aa69-4652-af92-e9df943fff56" />
+3. Explicação: O gráfico de Data Structures mostra como as estruturas de dados nativas do Python foram utilizadas no repositório do rich ao longo do tempo. O que mais chama atenção é a dominância do tuple durante todo o período, e faz sentido, já que a biblioteca lida bastante com configurações e estilos que não precisam ser alterados, tornando o uso de estruturas imutáveis uma boa escolha. O list aparece em segundo lugar e ambos cresceram de forma consistente entre 2021 e 2023, estabilizando depois disso, o que sugere que o projeto parou de adicionar grandes volumes de código novo. O dictionary se manteve em terceiro lugar com crescimento modesto, enquanto o set praticamente não aparece no projeto, o que também é esperado, dado que conjuntos são raramente necessários em uma biblioteca focada em formatação de terminal.
 
 
